@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "NodeNext",
+    "outDir": "dist",
+    "sourceMap": true,
+    "noImplicitAny": true,
+  },
+  "include": ["src/**/*", "types/express.d.ts"]
+}
